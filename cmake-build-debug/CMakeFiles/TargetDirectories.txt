@@ -1,0 +1,3 @@
+/Users/harishankar/CLionProjects/NeuralNetworkScratch/cmake-build-debug/CMakeFiles/NeuralNetworkScratch.dir
+/Users/harishankar/CLionProjects/NeuralNetworkScratch/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harishankar/CLionProjects/NeuralNetworkScratch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
