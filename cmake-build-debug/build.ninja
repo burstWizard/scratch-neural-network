@@ -51,7 +51,7 @@ build cmake_object_order_depends_target_NeuralNetworkScratch: phony || CMakeFile
 
 build CMakeFiles/NeuralNetworkScratch.dir/main.c.o: C_COMPILER__NeuralNetworkScratch_unscanned_Debug /Users/harishankar/CLionProjects/NeuralNetworkScratch/main.c || cmake_object_order_depends_target_NeuralNetworkScratch
   DEP_FILE = CMakeFiles/NeuralNetworkScratch.dir/main.c.o.d
-  FLAGS = -g -std=gnu2x -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
+  FLAGS = -g -std=gnu2x -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/NeuralNetworkScratch.dir
   OBJECT_FILE_DIR = CMakeFiles/NeuralNetworkScratch.dir
   TARGET_COMPILE_PDB = CMakeFiles/NeuralNetworkScratch.dir/
@@ -66,7 +66,7 @@ build CMakeFiles/NeuralNetworkScratch.dir/main.c.o: C_COMPILER__NeuralNetworkScr
 # Link the executable NeuralNetworkScratch
 
 build NeuralNetworkScratch: C_EXECUTABLE_LINKER__NeuralNetworkScratch_Debug CMakeFiles/NeuralNetworkScratch.dir/main.c.o
-  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk
   OBJECT_DIR = CMakeFiles/NeuralNetworkScratch.dir
   POST_BUILD = :
   PRE_LINK = :
